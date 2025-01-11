@@ -7,3 +7,5 @@ There will be no saving of any data sent or received into any sort of database, 
 that only has a few screens where I am able to log into my account and request a ride, given that I manually input the pickup and destination
 addresses. This application will only be used by me to request rides through Uber through a static web API, so that I can call ubers while still
 using my flip phone.
+
+By using the app, users are agreeing for this app to request Uber rides on behalf of their account, using their account information.
